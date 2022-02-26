@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1, h2 {
+    color: white;
+}
+
+.colorful {
+    color: aquamarine;
+}
+
+.colorfulsub {
+    color: pink;
+}
+
+.listSection {
+    padding: 30px;
+}
+
+#welcomeSection {
+    background: bisque;
+    padding: 10px;
+}
+
+.whitep {
+    color: wheat;
+}
+
+#inputForm {
+    
+    padding: 20px;
+    background-color: whitesmoke;
+    max-width: 500px;
+}
+
+.spaceIt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
